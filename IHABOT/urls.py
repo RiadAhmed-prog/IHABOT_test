@@ -20,6 +20,7 @@ from IHABOTapp import views
 
 urlpatterns = [
     path('/', admin.site.urls),
-    path('all_data/get/', views.get),
-    path('all_data/post/', views.post),
+    path('api/get/', views.get),
+    path('api/post/', views.post),
+    path('api/update/<int:ids>/', views.put),
 ]
