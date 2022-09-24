@@ -1,6 +1,6 @@
 # IHABOT
 
-git clone https://github.com/RiadAhmed-prog/IHABOT
+git clone https://github.com/RiadAhmed-prog/IHABOT_test
 
 cd IHABOT
 
